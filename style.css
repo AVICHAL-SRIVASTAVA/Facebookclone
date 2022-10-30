@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 100%;
+    
+}
+.form{
+    margin-top: 200px;
+display: flex;
+justify-content: center;
+align-items: center ;
+}
+.heading{
+    text-align: center;
+
+}
+.sub-heading{
+  font-size:25px;
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box{
+   
+    margin-left: 40px;
+    border: 2px solid rgb(242, 230, 230);
+    border-radius: 20px;
+    background-color: aliceblue;
+    
+}
+.email{
+    width: 400px;
+    padding: 15px;
+ 
+   margin: 15px 10px;
+   border-radius: 30px;
+}
+.password{
+    width: 400px;
+    padding: 15px ;
+    margin: 10px 10px;
+    border-radius: 30px;
+  }
+  .loginbutton{
+    width: 435px;
+    padding: 15px ;
+    margin: 10px 10px;
+    border-radius: 30px;
+    background-color: rgb(119, 119, 184);
+
+  }
+  .for{
+     text-align: center;
+     padding-bottom: 10px; 
+     
+  }
+  hr{
+    align-self: center;
+    width: 75%;
+    position: relative;
+    left: 60px;
+  }
+  .create{
+ background-color: greenyellow;
+ width: 300px;
+ padding: 10px ;
+ align-self: center;
+ position: relative;
+ left: 60px;
+ margin: 20px;
+ border-radius: 30px;
+  }
